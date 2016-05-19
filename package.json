@@ -22,6 +22,7 @@
   "dependencies": {
     "babel-runtime": "^6.5.0",
     "bluebird": "^3.3.5",
+    "express": "^4.13.4",
     "ramda": "^0.21.0"
   },
   "devDependencies": {

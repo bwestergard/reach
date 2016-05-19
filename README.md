@@ -4,5 +4,10 @@
   - [x] Empty
   - [x] Branch with problematic code
   - [x] CircleCI
-- [ ] Heroku App w/ Express
-- [ ] Respond to all PRs by commenting out
+- [ ] Express App Hello World
+- [ ] Respond to PRs by commenting out
+- [ ] Respond to PRs by applying grasp transforms
+- [ ] Cool transformations
+  - [ ] require to import
+  - [ ] compose <-> pipe
+  - [ ] dot removal

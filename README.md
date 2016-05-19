@@ -1,3 +1,4 @@
+- [x] Example grasp pattern (superfluous return)
 - [x] Reach repo
 - [x] Problematic repo
   - [x] Empty

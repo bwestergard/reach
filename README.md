@@ -5,9 +5,13 @@
   - [x] Branch with problematic code
   - [x] CircleCI
 - [x] Express App Hello World
-- [ ] ngrok config
+- [x] ngrok config
 - [ ] Respond to PRs by commenting out
-  - [ ] Receive webhook
+  - [x] Receive webhook
+  - [ ] Get JS files
+  - [ ] Transform files (comment out)
+  - [ ] Branch off PR Branch
+  - [ ] Update files in branch
 - [ ] Respond to PRs by applying grasp transforms
 - [ ] Cool transformations
   - [ ] require to import
